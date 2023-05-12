@@ -1,0 +1,32 @@
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\bin\Debug\ИС для чайного магазина.exe.config
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\bin\Debug\ИС для чайного магазина.exe
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\bin\Debug\ИС для чайного магазина.pdb
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.Properties.Resources.resources
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.exe
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.pdb
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\bin\Debug\System.Data.SQLite.dll
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.csproj.CopyComplete
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.MainForm.resources
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.IdentificationForm.resources
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.RegistrationForm.resources
+C:\Users\Иван\Desktop\Диплом\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.ModificationDataForm.resources
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\bin\Debug\ИС для чайного магазина.exe.config
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\bin\Debug\ИС для чайного магазина.exe
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\bin\Debug\ИС для чайного магазина.pdb
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\bin\Debug\System.Data.SQLite.dll
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.IdentificationForm.resources
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.MainForm.resources
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.ModificationDataForm.resources
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.Properties.Resources.resources
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.RegistrationForm.resources
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.csproj.CopyComplete
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.exe
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС для чайного магазина.pdb
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.ProductForm.resources
+C:\Users\Иван\Desktop\ИС для чайного магазина\ИС для чайного магазина\obj\Debug\ИС_для_чайного_магазина.OrdersForm.resources
